@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T04:23:52.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="TuM-u6FxXIx2VqRBdroX" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T06:35:53.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="kGDp6xrFcQb-XZma8OXr" version="15.2.9" type="github">
   <diagram id="CIe_GyhPGgL-361qdh2-" name="Page-1">
-    <mxGraphModel dx="1209" dy="781" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="724" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="0VKIb-3rJ8asAQybqMPK-50" value="VPC Peering Connection" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="421" y="210" width="256" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0VKIb-3rJ8asAQybqMPK-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;shadow=0;dashed=1;fontSize=12;fontColor=#663300;strokeColor=#006600;startArrow=none;strokeWidth=4;" edge="1" parent="1" source="0VKIb-3rJ8asAQybqMPK-52" target="0VKIb-3rJ8asAQybqMPK-25">
+        <mxCell id="0VKIb-3rJ8asAQybqMPK-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;shadow=0;dashed=1;fontSize=12;fontColor=#006633;strokeColor=#006600;startArrow=none;strokeWidth=4;" edge="1" parent="1" source="0VKIb-3rJ8asAQybqMPK-52" target="0VKIb-3rJ8asAQybqMPK-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="296" y="362" as="sourcePoint" />
             <mxPoint x="346" y="312" as="targetPoint" />
@@ -106,7 +106,7 @@
         <mxCell id="0VKIb-3rJ8asAQybqMPK-52" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.secureConnection;fillColor=#FF3333;strokeColor=#ffffff;aspect=fixed;fontFamily=Helvetica;fontSize=14;fontColor=#663300;" vertex="1" parent="1">
           <mxGeometry x="504" y="346" width="56.99999999999999" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="0VKIb-3rJ8asAQybqMPK-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;shadow=0;dashed=1;fontSize=12;fontColor=#663300;strokeColor=#002900;strokeWidth=4;" edge="1" parent="1" source="0VKIb-3rJ8asAQybqMPK-16" target="0VKIb-3rJ8asAQybqMPK-52">
+        <mxCell id="0VKIb-3rJ8asAQybqMPK-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;shadow=0;dashed=1;fontSize=12;fontColor=#006633;strokeColor=#002900;strokeWidth=4;" edge="1" parent="1" source="0VKIb-3rJ8asAQybqMPK-16" target="0VKIb-3rJ8asAQybqMPK-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="296" y="362" as="sourcePoint" />
             <mxPoint x="787" y="320" as="targetPoint" />
@@ -149,7 +149,7 @@
           <mxGeometry x="394" y="317" width="256" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0VKIb-3rJ8asAQybqMPK-67" value="Designed by: Praful Patel, Regina, Canada" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF0080;" vertex="1" parent="1">
-          <mxGeometry x="800" y="19" width="256" height="40" as="geometry" />
+          <mxGeometry x="816" y="576" width="256" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0VKIb-3rJ8asAQybqMPK-68" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#4D4D4D;gradientColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FF0080;strokeWidth=5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="502.25" y="586" width="79.5" height="54" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="0VKIb-3rJ8asAQybqMPK-74" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#00CCCC;gradientColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FF0080;strokeColor=#99FFFF;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="161" y="627" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0VKIb-3rJ8asAQybqMPK-75" value="VPC Peering Connection" style="text;strokeColor=none;fillColor=none;html=1;fontSize=19;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="828" y="16" width="256" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
