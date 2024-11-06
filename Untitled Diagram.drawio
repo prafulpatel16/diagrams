@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1047" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,6 +34,9 @@
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="UEzPUAAOIrF-is8g5C7q-74" vertex="1">
           <mxGeometry x="290" y="70" width="770" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="gIuJXM5LMmpd5tfcx3Na-53" value="&lt;font style=&quot;font-size: 49px;&quot;&gt;&lt;b style=&quot;font-size: 49px;&quot;&gt;Designed By: PRAFUL PATEL , https://www.praful.cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=49;fontColor=#E6E6E6;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-107">
+          <mxGeometry x="23" y="209" width="725" height="216" as="geometry" />
         </mxCell>
         <mxCell id="gIuJXM5LMmpd5tfcx3Na-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-107">
           <mxGeometry x="70" y="21" width="88" height="88" as="geometry" />
@@ -200,7 +203,7 @@
         <mxCell id="gIuJXM5LMmpd5tfcx3Na-42" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#AA0808;strokeColor=none;gradientDirection=east;fillColor=#FF5C77;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-74">
           <mxGeometry x="180" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIuJXM5LMmpd5tfcx3Na-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AWS Serverless - Prafuls Portfolio Web App - Resume Download&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gIuJXM5LMmpd5tfcx3Na-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AWS Serverless - Prafuls Portfolio Web App - Resume Download&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gIuJXM5LMmpd5tfcx3Na-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Designed By: PRAFUL PATEL , https://www.praful.cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
